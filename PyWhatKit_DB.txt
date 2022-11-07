@@ -1,0 +1,215 @@
+Date: 6/11/2022
+Time: 18:18
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26999147*EVENTO:* AlertID: 236|Alerta CRITICAL por uso de CPU al 100 % del servidor TPCCP-AP182 - 10.151.235.30, POR FAVOR REVISAR*ANALISTA REPORTADO:* Julian TunjueloHenao*AREA:* Aplicaciones*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:34
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:35
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963320*EVENTO:* 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:37
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:39
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:40
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963320*EVENTO:* 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:42
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:45
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:46
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963320*EVENTO:* 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:47
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26960564*EVENTO:* 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963320*EVENTO:* 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:49
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963575*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:50
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26963320*EVENTO:* *ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:51
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26960564*EVENTO:* *ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:52
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26964073*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 3157|An issue has been detected at Tuesday, November 1, 2022 4:07 p. m. on Unknown device named HSM-P01-UPS-UP01 (IP: 10.162.81.202, DNS: )WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:3351.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:57020Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=57020This message was brought to you by the alert named: WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryThe node is monitored by the polling engine TPCCP-MO01[cid:eb070c0b-1c63-4acf-9c61-85abe91086ec]Con el fin de documentar este incidente se ha reportado en el Service Desk el caso número: 26964073Cordialmente,Event Analyst  IT Fulfillment | Teleperformance |T +571 404-9080 Ext 51567| Bogota,Colombia[Event_ManagementTPCGP@teleperformance.com, noctpc@yeapdata.com][cid:db8d68c8-f45a-4125-bd97-654e2be4f790]________________________________De: Network Performance Monitor <noreply@solarwinds.com>Enviado: martes, 1 de noviembre de 2022 4:07 p. m.Para: Noc TPC <noctpc@yeapdata.com>Cc: isaac.mosqueraquintero@teleperformance.com <isaac.mosqueraquintero@teleperformance.com>Asunto: AlertID: 3157|Error on HSM-P01-UPS-UP01 at WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryAlertID: 3157|An issue has been detected at Tuesday, November 1, 2022 4:07 p. m. on Unknown device named HSM-P01-UPS-UP01 (IP: 10.162.81.202, DNS: )WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:3351.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:57020Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=57020This message was brought to you by the alert named: WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryThe node is monitored by the polling engine TPCCP-MO01*ANALISTA REPORTADO:* ery Pastrana Arismendy <Yery PastranaArismendy*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:53
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26994506*EVENTO:* Se presenta Alerta WARNING % LLAMADAS SIN PESOS:SERVIDOR: Core1 DespegarBr% LLAMADAS SIN PESO: 97.67*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 18:56
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26964073*EVENTO:* Buen día.Respetado Ingeniero,Reciba un cordial saludo del NOC de TPCO.Por medio del presente informamos que el Equipo NOC ha detectado la siguiente alarma a través del Sistema de Monitoreo:AlertID: 3157|An issue has been detected at Tuesday, November 1, 2022 4:07 p. m. on Unknown device named HSM-P01-UPS-UP01 (IP: 10.162.81.202, DNS: )WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:3351.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:57020Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=57020This message was brought to you by the alert named: WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryThe node is monitored by the polling engine TPCCP-MO01[cid:eb070c0b-1c63-4acf-9c61-85abe91086ec]Con el fin de documentar este incidente se ha reportado en el Service Desk el caso número: 26964073Cordialmente,Event Analyst  IT Fulfillment | Teleperformance |T +571 404-9080 Ext 51567| Bogota,Colombia[Event_ManagementTPCGP@teleperformance.com, noctpc@yeapdata.com][cid:db8d68c8-f45a-4125-bd97-654e2be4f790]________________________________De: Network Performance Monitor <noreply@solarwinds.com>Enviado: martes, 1 de noviembre de 2022 4:07 p. m.Para: Noc TPC <noctpc@yeapdata.com>Cc: isaac.mosqueraquintero@teleperformance.com <isaac.mosqueraquintero@teleperformance.com>Asunto: AlertID: 3157|Error on HSM-P01-UPS-UP01 at WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryAlertID: 3157|An issue has been detected at Tuesday, November 1, 2022 4:07 p. m. on Unknown device named HSM-P01-UPS-UP01 (IP: 10.162.81.202, DNS: )WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:3351.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:57020Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=57020This message was brought to you by the alert named: WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryThe node is monitored by the polling engine TPCCP-MO01*ANALISTA REPORTADO:* ery Pastrana Arismendy <Yery PastranaArismendy*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 19:0
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26994506*EVENTO:* Se presenta Alerta WARNING % LLAMADAS SIN PESOS:SERVIDOR: Core1 DespegarBr% LLAMADAS SIN PESO: 97.67*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 19:1
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26994974*EVENTO:* Se presenta Alerta WARNING % LLAMADAS SIN PESOS:SERVIDOR: Core2 DespegarBr% LLAMADAS SIN PESO: 97.92*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 19:2
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26995856*EVENTO:* AlertID: 4424|Se presenta alerta de estado Down del servicio http://10.142.4.220/codensa del servidor TPCCP-RP71.teleperformance.co con dirección IP 10.151.237.43*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 19:3
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26996144*EVENTO:* AlertID: 339|Se presenta alerta de estado Down de la URL Servicio Tomcat http://10.250.50.131:7080/manager/html del servidor tpbrp-vo-was01 con dirección IP 10.250.50.131*ANALISTA REPORTADO:* Julian TunjueloHenao*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 19:4
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26996668*EVENTO:* Se presenta Alerta WARNING ULTIMAGRABACIÓN >= 45Core: AIR (1, 2, 3, 4, 5, 6 y 7)SENSOR TIEMPO Monitor_UltimaGrabacion NICE ENGAGE_ALPHA*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 19:5
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26997009*EVENTO:* AlertID: 1700|Alerta WARNING por uso de Memoria al 96 % del servidor TPPCP-DB08 - 10.146.16.12, POR FAVOR REVISARHOSTNAME:SERVICIO: DB TarificadorTIPO DE SERVICIO: TP Perú (VDC)IDENTIFICADOR:*ANALISTA REPORTADO:* ?Windows-1252?Q?Johan_Andres_Ria=F1o_Herrera?=	<johan rianoherrera*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.
+--------------------
+Date: 6/11/2022
+Time: 19:8
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26994506*EVENTO:* Se presenta Alerta WARNING % LLAMADAS SIN PESOS:SERVIDOR: Core1 DespegarBr% LLAMADAS SIN PESO: 97.67*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 1
+--------------------
+Date: 6/11/2022
+Time: 19:9
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26994506*EVENTO:* Se presenta Alerta WARNING % LLAMADAS SIN PESOS:SERVIDOR: Core1 DespegarBr% LLAMADAS SIN PESO: 97.67*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 1
+--------------------
+Date: 6/11/2022
+Time: 19:10
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26994974*EVENTO:* Se presenta Alerta WARNING % LLAMADAS SIN PESOS:SERVIDOR: Core2 DespegarBr% LLAMADAS SIN PESO: 97.92*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 2
+--------------------
+Date: 6/11/2022
+Time: 19:11
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26995856*EVENTO:* AlertID: 4424|Se presenta alerta de estado Down del servicio http://10.142.4.220/codensa del servidor TPCCP-RP71.teleperformance.co con dirección IP 10.151.237.43*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 3
+--------------------
+Date: 6/11/2022
+Time: 19:12
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26996144*EVENTO:* AlertID: 339|Se presenta alerta de estado Down de la URL Servicio Tomcat http://10.250.50.131:7080/manager/html del servidor tpbrp-vo-was01 con dirección IP 10.250.50.131*ANALISTA REPORTADO:* Julian TunjueloHenao*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 4
+--------------------
+Date: 6/11/2022
+Time: 19:13
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26996668*EVENTO:* Se presenta Alerta WARNING ULTIMAGRABACIÓN >= 45Core: AIR (1, 2, 3, 4, 5, 6 y 7)SENSOR TIEMPO Monitor_UltimaGrabacion NICE ENGAGE_ALPHA*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 5
+--------------------
+Date: 6/11/2022
+Time: 19:14
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26997009*EVENTO:* AlertID: 1700|Alerta WARNING por uso de Memoria al 96 % del servidor TPPCP-DB08 - 10.146.16.12, POR FAVOR REVISARHOSTNAME:SERVICIO: DB TarificadorTIPO DE SERVICIO: TP Perú (VDC)IDENTIFICADOR:*ANALISTA REPORTADO:* ?Windows-1252?Q?Johan_Andres_Ria=F1o_Herrera?=	<johan rianoherrera*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 6
+--------------------
+Date: 6/11/2022
+Time: 19:15
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26997099*EVENTO:* AlertID: 2777|Se presenta Alerta CRITICAL % LLAMADAS SIN PESOS:SERVIDOR: CoreCent3 N2% LLAMADAS SIN PESO: 92.63*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 7
+--------------------
+Date: 6/11/2022
+Time: 19:16
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26997267*EVENTO:* Alerta WARNING|SQL|CPU| al 91 %|TPCCP-DB158|10.151.233.62, POR FAVOR REVISARAMBIENTE: APLICACIONES (BASES DE DATOS SQL Server TP)*ANALISTA REPORTADO:* arlos Agudelo Paredes <Carlos AgudeloParedes*AREA:* SYSTEM*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 8
+--------------------
+Date: 6/11/2022
+Time: 19:17
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26997335*EVENTO:* AlertID: 4396|Alerta WARNING por uso de Memoria al 90 % del servidor TPCCP-RP66.teleperformance.co - 10.151.237.42, POR FAVOR REVISAR*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 9
+--------------------
+Date: 6/11/2022
+Time: 19:18
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26997708*EVENTO:* Se presenta alerta de estado Down del nodo RTR_EDN-COL_01.tpedi.com con dirección IP 192.168.2.29*ANALISTA REPORTADO:* ?Windows-1252?Q?Estevan=2ELondo=F1o=40teleperformance=2Eco?=	<Estevan Londo??o*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 10
+--------------------
+Date: 6/11/2022
+Time: 19:19
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26998385*EVENTO:* Alerta WARNING|SQL|CPU| al 94 %|(LISTENER) TPLSTDSP01.teleperformance.co|10.151.232.53, POR FAVOR REVISARAMBIENTE: APLICACIONES (BASES DE DATOS SQL Server TP)*ANALISTA REPORTADO:* arlos Agudelo Paredes <Carlos AgudeloParedes*AREA:* SYSTEM*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 11
+--------------------
+Date: 6/11/2022
+Time: 19:20
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26998531*EVENTO:* AlertID: 4424|Se presenta alerta de estado Down del servicio http://10.142.10.143/codensa/ del servidor TPCCP-RP66.teleperformance.co con dirección IP 10.151.237.42*ANALISTA REPORTADO:* jhonatan moralesrodolfo*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 12
+--------------------
+Date: 6/11/2022
+Time: 19:21
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26998849*EVENTO:* AlertID: 3894|An issue has been detected at Thursday, November 3, 2022 1:25 p. m. on Veritiv/Emerson/Liebert device named HSB-S01-UPS-UP01 (IP: 10.136.6.2, DNS: )CRITICAL|FACILITIES|TRAPS UPS|lgpAgentDeviceCommunicationLostView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:4975.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:68480Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=68480This message was brought to you by the alert named: CRITICAL|FACILITIES|TRAPS UPS|lgpAgentDeviceCommunicationLostThe node is monitored by the polling engine TPCCP-MO01[cid:97c1d092-5112-4fd9-9336-8e780512d9d8]*-*-*Con el fin de documentar este incidente se ha reportado en el Service Desk el caso número: 26998849Cordialmente,Event Analyst  IT Fulfillment | Teleperformance |T +571 404-9080 Ext 51567| Bogota,Colombia[Event_ManagementTPCGP@teleperformance.com, noctpc@yeapdata.com][cid:ec1cfb4d-47b0-409c-b2b5-02c08dc3e984]________________________________De: Network Performance Monitor <noreply@solarwinds.com>Enviado: jueves, 3 de noviembre de 2022 1:25 p. m.Para: Noc TPC <noctpc@yeapdata.com>Cc: isaac.mosqueraquintero@teleperformance.com <isaac.mosqueraquintero@teleperformance.com>Asunto: AlertID: 3894|Error on HSB-S01-UPS-UP01 at CRITICAL|FACILITIES|TRAPS UPS|lgpAgentDeviceCommunicationLostAlertID: 3894|An issue has been detected at Thursday, November 3, 2022 1:25 p. m. on Veritiv/Emerson/Liebert device named HSB-S01-UPS-UP01 (IP: 10.136.6.2, DNS: )CRITICAL|FACILITIES|TRAPS UPS|lgpAgentDeviceCommunicationLostView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:4975.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:68480Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=68480This message was brought to you by the alert named: CRITICAL|FACILITIES|TRAPS UPS|lgpAgentDeviceCommunicationLostThe node is monitored by the polling engine TPCCP-MO01*ANALISTA REPORTADO:* oscar campillofrajia*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 13
+--------------------
+Date: 6/11/2022
+Time: 19:22
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26999147*EVENTO:* AlertID: 236|Alerta CRITICAL por uso de CPU al 100 % del servidor TPCCP-AP182 - 10.151.235.30, POR FAVOR REVISAR*ANALISTA REPORTADO:* Julian TunjueloHenao*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 14
+--------------------
+Date: 6/11/2022
+Time: 19:23
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26999186*EVENTO:* AlertID: 3157|An issue has been detected at Thursday, November 3, 2022 1:40 p. m. on Unknown device named AN2-P02-UPS-UP01 (IP: 10.140.16.102, DNS: )WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:3420.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:54482Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=54482This message was brought to you by the alert named: WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryThe node is monitored by the polling engine TPCCP-MO01[cid:2f025c77-454c-418e-84e7-3e5c5af0cda8]*-*-*Con el fin de documentar este incidente se ha reportado en el Service Desk el caso número: 26999186Cordialmente,Event Analyst  IT Fulfillment | Teleperformance |T +571 404-9080 Ext 51567| Bogota,Colombia[Event_ManagementTPCGP@teleperformance.com, noctpc@yeapdata.com][cid:270f09e5-dcae-4fb2-8599-fe4d0b49fc8b]________________________________De: Network Performance Monitor <noreply@solarwinds.com>Enviado: jueves, 3 de noviembre de 2022 1:40 p. m.Para: Noc TPC <noctpc@yeapdata.com>Cc: isaac.mosqueraquintero@teleperformance.com <isaac.mosqueraquintero@teleperformance.com>Asunto: AlertID: 3157|Error on AN2-P02-UPS-UP01 at WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryAlertID: 3157|An issue has been detected at Thursday, November 3, 2022 1:40 p. m. on Unknown device named AN2-P02-UPS-UP01 (IP: 10.140.16.102, DNS: )WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryView full device details here: https://TPCCP-MO01.teleperformance.co:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:3420.View full alert details here: https://TPCCP-MO01.teleperformance.co:443/Orion/View.aspx?NetObject=AAT:54482Click here to acknowledge the alert: https://TPCCP-MO01.teleperformance.co:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=54482This message was brought to you by the alert named: WARNING|FACILITIES|UPS TRAPS|UPS_OnBatteryThe node is monitored by the polling engine TPCCP-MO01*ANALISTA REPORTADO:* ery Pastrana Arismendy <Yery PastranaArismendy*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 15
+--------------------
+Date: 6/11/2022
+Time: 19:24
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26999225*EVENTO:* AlertID: 1152|Se presenta RESTABLECIMIENTO de uso de memoria al 94 % del servidor TPCF356-180 con dirección IP 10.162.3.179*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 16
+--------------------
+Date: 6/11/2022
+Time: 19:27
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26996668*EVENTO:* Se presenta Alerta WARNING ULTIMAGRABACIÓN >= 45Core: AIR (1, 2, 3, 4, 5, 6 y 7)SENSOR TIEMPO Monitor_UltimaGrabacion NICE ENGAGE_ALPHA*ANALISTA REPORTADO:* Yennifer JaimesOrozco*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 5
+--------------------
+Date: 6/11/2022
+Time: 19:28
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26999147*EVENTO:* AlertID: 236|Alerta CRITICAL por uso de CPU al 100 % del servidor TPCCP-AP182 - 10.151.235.30, POR FAVOR REVISAR*ANALISTA REPORTADO:* Julian TunjueloHenao*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 14
+--------------------
+Date: 6/11/2022
+Time: 19:30
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26999147*EVENTO:* AlertID: 236|Alerta CRITICAL por uso de CPU al 100 % del servidor TPCCP-AP182 - 10.151.235.30*ANALISTA REPORTADO:* Julian TunjueloHenao*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 14
+--------------------
+Date: 6/11/2022
+Time: 19:36
+Phone Number: +573202922822
+Message: 📢 *NOTIFICACION GESTION DE EVENTOS NOC* 📢 *SD:* 26999147*EVENTO:* AlertID: 236|Alerta CRITICAL por uso de CPU al 100 % del servidor TPCCP-AP182 - 10.151.235.30*ANALISTA REPORTADO:* Julian TunjueloHenao*AREA:* Validar area del correo*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.correo: 14
+--------------------

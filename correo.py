@@ -1,11 +1,12 @@
 import imaplib
 import email
 from email.header import decode_header
-from os import system
+from datetime import datetime
 import pywhatkit
 
 # Datos del usuario
-
+username = "GEMTPWAPP@gmail.com"
+password = "nwioxfuogxyqwyzx"
 
 # Crear conexión
 imap = imaplib.IMAP4_SSL("imap.gmail.com")
@@ -19,10 +20,10 @@ imap.login(username, password)
 status, mensajes = imap.select("INBOX")
 
 mensajes = int(mensajes[0])
-
-
+i=14
+#for i in range (1,mensajes+1):
 try:
-    res, mensaje = imap.fetch(str(18), "(RFC822)")
+    res, mensaje = imap.fetch(str(i), "(RFC822)")
 except:
     pass
 for respuesta in mensaje:
@@ -47,6 +48,8 @@ for respuesta in mensaje:
             for area in areas:
                 if Cc_.find(area) != -1:
                     areaR = area
+                else:
+                    areaR = "Validar area del correo"
             if mensaje.is_multipart():
                 for part in mensaje.walk():
                     content_type = part.get_content_type()
@@ -56,6 +59,7 @@ for respuesta in mensaje:
                         pass
                     if content_type == "text/plain":
                         body = str(body).replace(", POR FAVOR REVISAR.","")
+                        
                         mens1 = body.find("+-+-+")+5
                         mens2 = body.find("Hora de Evento: ")
                         alerta = body[mens1:mens2]
@@ -72,12 +76,23 @@ texto = ("\U0001F4E2 *NOTIFICACION GESTION DE EVENTOS NOC* \U0001F4E2 \n"
 +"\n*EVENTO:* "+texto
 +"*ANALISTA REPORTADO:* "+to_ 
 +"\n*AREA:* "+areaR
-+"\n*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación.")
++"\n*OBSERVACIONES:* Se realiza reporte con analista encargado para su respectiva validación."
++"correo: "+str(i)).replace(", POR FAVOR REVISAR","")
 
-print(texto)
-#pywhatkit.sendwhatmsg("+573202922822", texto, 22, 55)
+print("Correo: " +str(i)+" ticket: " +ticket)
+now = datetime.now()
+hora = int(now.hour)
+minuntos = int(now.minute+1)
+print(str(now.hour) + ": "+str(int(now.minute)+1))
+try:
+    pywhatkit.sendwhatmsg("+573202922822", texto, hora, minuntos, 15, True, 5)
+    texto = ""
+except Exception as inst:
+    print(type(inst))
+    pywhatkit.sendwhatmsg("+573202922822", texto, hora, minuntos+1, 15, True, 5)
+
 #pywhatkit.sendwhatmsg_to_group("FkLYvGFtZZwJV8UT7vdHaJ", texto, 12, 00)
-pywhatkit.sendwhats_image("+573202922822","image.jpg")
+#pywhatkit.sendwhats_image("+573202922822","image.jpg")
 
 
 
