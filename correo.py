@@ -5,8 +5,7 @@ from datetime import datetime
 import pywhatkit
 
 # Datos del usuario
-username = "GEMTPWAPP@gmail.com"
-password = "nwioxfuogxyqwyzx"
+
 
 # Crear conexión
 imap = imaplib.IMAP4_SSL("imap.gmail.com")
